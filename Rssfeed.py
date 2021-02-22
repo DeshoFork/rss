@@ -8,9 +8,9 @@ from time import sleep
 import requests
 import feedparser
 
-BOT_TOKEN = '1617200091:AAGCsdnMAigjBg2k-ICJ0mRgdVEX-7WYFvo'
-CHANNEL_ID = '-1001383414130' # @bot_channel_name
-FEED_URL = 'https://torrentgalaxy.to/rss?magnet&user=29' # https://something.com/feeds/rss.xml
+BOT_TOKEN = ''
+CHANNEL_ID = '' # @bot_channel_name
+FEED_URL = '' # https://something.com/feeds/rss.xml
 
 
 def send_message(message):
